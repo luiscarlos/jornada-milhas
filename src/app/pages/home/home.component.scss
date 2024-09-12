@@ -1,0 +1,9 @@
+
+  .card-wrapper {
+    display: flex; /* alinhamento na vertical */
+    flex-wrap: wrap;/* alinhamento na horizontal */
+    justify-content: space-between; /* espaço na horizontal */
+    row-gap: 16px; /* alinhamento na verical */
+    margin-bottom: 40px;  /* espaço entre o card de pesquisa e o card de depoimento */
+  }
+
